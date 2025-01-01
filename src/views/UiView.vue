@@ -65,7 +65,7 @@ const darkModeStore = useDarkModeStore()
   <LayoutAuthenticated>
     <CardBoxModal
       v-model="modalOneActive"
-      title="Please confirm action"
+      title="xiugaihou"
       button-label="Confirm"
       has-cancel
     >
